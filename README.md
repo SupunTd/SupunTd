@@ -1,40 +1,115 @@
-<h1 align="center">Hi 👋, I'm Supun Thilakshana</h1>
-<h3 align="center">Undergraduate Engineer | University of Ruhuna</h3>
+<a href="https://komarev.com/ghpvc/?username=SupunTd">
+  <img align="right" src="https://komarev.com/ghpvc/?username=SupunTd&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</a>
 
-- 🔭 I’m currently working on **UOR**
 
-- 🌱 I’m currently learning **Engineering**
+              
+              
 
-- 👯 I’m looking to collaborate on **Jobs**
 
-- 🤝 I’m looking for help with **.**
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/SupunTd?tab=repositories)
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://linktr.ee/supun_thilakshana">Supun Thilakshana</a></b>
+        </samp>
+</h3>
 
-- 💬 Ask me about **...**
-
-- 📄 Know about my experiences 
-
-- ⚡ Fun fact **Keep Smile**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/std" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SupunTd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/std" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun-thilakshana-5589171aa" height="30" width="40" /></a>
-<a href="https://fb.com/supun thilakshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun thilakshana dharmarathna" height="30" width="40" /></a>
-<a href="https://instagram.com/std" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="std" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/std" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="std" height="30" width="40" /></a>
-<a href="https://discord.gg/STD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="STD" height="30" width="40" /></a>
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Supun+Thilakshana+Dharmarathna">「 Google Me 」</a>
+    <br>
+    「 I am a full-stack developer from <b>University of Ruhuna 」</b>
+    <br>
+    <br>
+  </samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
- </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+ <a href="https://supuntd.github.io/supunthilakshana.github.io/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Supun Thilakshana" />
+ </a>
+ <a href="https://www.linkedin.com/in/supunthilakshana/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Supun Thilakshana" />
+ </a>
+ <a href="https://twitter.com/SupunTd" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Supun Thilakshana" />
+ </a>
+ <a href="https://www.facebook.com/supun.thilakshana.1" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Supun Thilakshana" />
+  </a> 
+ <a href="https://www.instagram.com/supun_thilakshana/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Supun Thilakshana" />
+ </a> 
+ <a href="https://www.youtube.com/@supunthilakshana229/" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Supun Thilakshana" />
+ </a> 
+ <a href="https://discord.gg/STD" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Supun Thilakshana" />
+ </a> 
+</p>
+
+<!-- About Section -->
+<h2>About me</h2>
+
+<div style="display: flex; align-items: center;">
+  <p style="flex: 1;">
+     <img align="right" src="https://github.com/SupunTd/SupunTd/assets/82252921/79a21fdc-9b00-481b-b4da-a8f4d4df376a" alt="programmer" width="350" />
+    ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
+    ❤️ &emsp; Love writing code and learning new features<br/><br/>
+    📧 &emsp; Reach me anytime: supuntd11@gmail.com<br/><br/>
+    💬 &emsp; Ask me about anything <a href="https://github.com/SupunTd/SupunTd/issues">here</a>
+
+  </p>
+</div>
+<br/>
+<br/>
+<br/>
 
 
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SupunTd&show_icons=true&locale=en&layout=compact" alt="awanthiy" /></p>
+<!-- Languages and Tools -->
+## Use To Code
+  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+ ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+  ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SupunTd&show_icons=true&locale=en" alt="awanthiy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SupunTd&" alt="awanthiy" /></p>
+
+
+
+
+
+
+
+
+## I am Really
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SupunTd&show_icons=true&locale=en&layout=compact" alt="SupunTd" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SupunTd&show_icons=true&locale=en" alt="SupunTd" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SupunTd" alt="SupunTd" />
+</p>
+
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SupunTd&theme=radical" alt="Supun's GitHub Contribution"/>
+
+</p>
+
+
+
+
