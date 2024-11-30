@@ -58,7 +58,7 @@
   ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
   ❤️ &emsp; Love writing code and learning new features<br/><br/>
   🌐 &emsp; Visit my personal website: <a href="https://supun-thilakshana.jimdosite.com/">supun-thilakshana.jimdosite.com</a> <br/><br/>
-  📧 &emsp; Reach me anytime: supunthilakshana11@gmail.com<br/><br/>
+  📧 &emsp; Reach me anytime 🤩 <br/><br/>
   💬 &emsp; Ask me about anything <a href="https://github.com/SupunTd/SupunTd/issues">here</a>
 </p>
 
