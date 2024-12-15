@@ -55,6 +55,7 @@
 <div style="display: flex; align-items: center;">
 <p style="flex: 1;">
   <img align="right" src="https://github.com/SupunTd/SupunTd/assets/82252921/79a21fdc-9b00-481b-b4da-a8f4d4df376a" alt="programmer" width="350" />
+  💻 &emsp; Fullstack Engineer at Prologic IT Solutions Pvt Ltd, Sri Lanka <br/><br/>
   ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
   ❤️ &emsp; Love writing code and learning new features<br/><br/>
   🌐 &emsp; Visit my personal website: <a href="https://supun-thilakshana.jimdosite.com/">supun-thilakshana.jimdosite.com</a> <br/><br/>
